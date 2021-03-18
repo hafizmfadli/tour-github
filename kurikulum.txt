@@ -4,7 +4,11 @@ Semester 1 :
 1.Dasar Pemrograman
 
 Semester 2 :
-2.Object Oreiented Programming
+1.Object Oreiented Programming
 
 Semester 3 :
-3.Sistem Basis Data
+1.Sistem Basis Data
+
+Semester 4 :
+1.Web development
+2.Sistem Operasi
