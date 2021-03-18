@@ -7,4 +7,4 @@ Semester 2 :
 2.Object Oreiented Programming
 
 Semester 3 :
-3.Jaringan komputer
+3.Sistem Basis Data
