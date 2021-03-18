@@ -12,3 +12,7 @@ Semester 3 :
 Semester 4 :
 1.Web development
 2.Sistem Operasi
+
+Semester 5 :
+1.Machine learning
+2.Statistik
