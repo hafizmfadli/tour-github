@@ -16,3 +16,7 @@ Semester 4 :
 Semester 5 :
 1.Mobile development (Android)
 2.Java dan Kotlin
+
+Semester 6 :
+1.Metodologi Penelitian
+2.Software Testing
