@@ -14,5 +14,14 @@ Semester 4 :
 2.Sistem Operasi
 
 Semester 5 :
-1.Machine learning
-2.Statistik
+1.Mobile development (Android)
+2.Java dan Kotlin
+3.Machine learning
+4.Statistik
+
+Semester 6 :
+1.Metodologi Penelitian
+2.Software Testing
+
+
+
